@@ -7,9 +7,7 @@ Selenium server standalone is a browser automation framework. We will try to mai
 Instructions:
 -------------
 
-1. Add the following line to your composer.json configuration file: ```"emagister/selenium-server": "2.*"```
-
-Example:
+1. Add the following line to your composer.json configuration file: ```"emagister/selenium-server": "2.*"```. It should look like this:
 ```json
 {
     "config": {
