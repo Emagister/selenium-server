@@ -13,7 +13,7 @@ Instructions:
         "config": {
             "bin-dir": "bin/"
         },
-        "minimum-stability": "stable"
+        "minimum-stability": "stable",
         "require": {
             "emagister/selenium-server": "2.*"
         }
