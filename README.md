@@ -8,6 +8,7 @@ Instructions:
 -------------
 
 1. Add the following line to your composer.json configuration file:
+
 "emagister/selenium-server": "2.*"
 
 Example:
@@ -24,8 +25,10 @@ Example:
 ```
 
 2. Execute the following command in the home directory of your project:
+
 ```php composer.phar install```
 
 3. And you're ready to go! Now you can launch the selenium server from the corresponding directory (in this case "bin"):
+
 ```java -jar bin/selenium-server.jar```
 
