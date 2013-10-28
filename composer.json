@@ -1,0 +1,16 @@
+{
+    "name": "emagister/selenium-server",
+    "description": "Composer distribution of Selenium Server Standalone, the browser automation framework.",
+    "authors": [
+        {
+            "name": "Artem Loginov",
+            "email": "aloginov@emagister.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "type": "libtary",
+    "keywords": ["selenium","selenium-server","selenium-server-standalone","functional testing","testing"],
+    "homepage": "http://github.com/Emagister/selenium-server",
+    "license": "MIT",
+    "bin": ["bin/selenium-server.jar"]
+}
