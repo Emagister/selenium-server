@@ -2,7 +2,7 @@ Selenium server standalone
 ===============
 
 This repository allows you to have the latest stable version of Selenium server integrated into your projects.
-Selenium server standalone is a browser automation framework. We will try to maintain the repository updated with the latest stable version of Selenium.
+Selenium server standalone is a browser automation framework. We will maintain the repository updated with the latest stable version of Selenium.
 
 Instructions:
 -------------
