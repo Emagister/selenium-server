@@ -8,7 +8,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "type": "libtary",
+    "type": "library",
     "keywords": ["selenium","selenium-server","selenium-server-standalone","functional testing","testing"],
     "homepage": "http://github.com/Emagister/selenium-server",
     "license": "MIT",
