@@ -7,7 +7,7 @@ Selenium server standalone is a browser automation framework.
 Instructions:
 -------------
 
-1. Add the following line to your composer.json configuration file: ```"emagister/selenium-server": "2.*"```. It should look like this:
+1. Add the following line to your composer.json configuration file: ```"tilibom/selenium-server": "3.*"```. It should look like this:
 ```json
 {
         "config": {
@@ -15,7 +15,7 @@ Instructions:
         },
         "minimum-stability": "stable",
         "require": {
-            "emagister/selenium-server": "2.*"
+            "tilibom/selenium-server": "3.*"
         }
 }
 ```
